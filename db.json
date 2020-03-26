@@ -1,8 +1,11 @@
 {
-  "auth_error": {
-    "statusCode": 403,
-  },
-  "system_maintenance_error": {
-    "statusCode": 500,
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
